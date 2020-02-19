@@ -1,0 +1,413 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"text",
+				"text-shadow\tproperty"
+			],
+			[
+				"font",
+				"font-family\tproperty"
+			],
+			[
+				"Fo",
+				"font-size\tproperty"
+			],
+			[
+				"ti",
+				"title\tTag"
+			],
+			[
+				"arra",
+				"array1"
+			],
+			[
+				"pr",
+				"print"
+			],
+			[
+				"prin",
+				"print_r"
+			],
+			[
+				"su",
+				"subtitulo"
+			],
+			[
+				"ar",
+				"array"
+			],
+			[
+				"bi",
+				"bicho"
+			],
+			[
+				"c",
+				"cont1"
+			],
+			[
+				"i",
+				"if\tif …"
+			],
+			[
+				"file_",
+				"file_get_contents"
+			],
+			[
+				"res",
+				"resultado1"
+			],
+			[
+				"me",
+				"meta\tTag"
+			],
+			[
+				"arr",
+				"array1"
+			],
+			[
+				"ex",
+				"explode"
+			],
+			[
+				"filter",
+				"filter_input"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"a",
+				"array"
+			],
+			[
+				"ul",
+				"ultimo_result"
+			],
+			[
+				"p",
+				"php"
+			],
+			[
+				"ba",
+				"background-color\tproperty"
+			],
+			[
+				"border",
+				"border-radius\tproperty"
+			],
+			[
+				"bac",
+				"background\tproperty"
+			],
+			[
+				"f",
+				"font-size\tproperty"
+			],
+			[
+				"mar",
+				"margin-bottom\tproperty"
+			],
+			[
+				"s",
+				"space-between\tjustify-content"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"cont",
+				"cont1"
+			],
+			[
+				"con",
+				"cont1"
+			],
+			[
+				"al",
+				"text-align\tproperty"
+			],
+			[
+				"ali",
+				"text-align"
+			],
+			[
+				"ce",
+				"center"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"fle",
+				"flex-direction\tproperty"
+			],
+			[
+				"cen",
+				"justify-content\tproperty"
+			],
+			[
+				"flex",
+				"flex-direction\tproperty"
+			],
+			[
+				"co",
+				"color\tproperty"
+			],
+			[
+				"fon",
+				"font-size\tproperty"
+			],
+			[
+				"tex",
+				"text-align\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"ht",
+				"Set Syntax: HTML"
+			],
+			[
+				"re",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"brow",
+				"Preferences: Browse Packages"
+			],
+			[
+				"br",
+				"Preferences: Browse Packages"
+			],
+			[
+				"insta",
+				"Install Package Control"
+			],
+			[
+				"rei",
+				"Indentation: Reindent Lines"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/E/Biblioteca/Imagens/Teste%html/curso-html5-pacote01/projeto-glass-html5/specs.html",
+		"/E/Biblioteca/Imagens/Teste%html/curso-html5-pacote01/projeto-glass-html5/multimidia.html",
+		"/E/Biblioteca/Imagens/Teste%html/curso-html5-pacote01/projeto-glass-html5/index.html",
+		"/E/Biblioteca/Imagens/Teste%html/curso-html5-pacote01/projeto-glass-html5/google-glass.html",
+		"/E/Biblioteca/Imagens/Teste%html/curso-html5-pacote01/projeto-glass-html5/fotos.html",
+		"/E/Biblioteca/Imagens/Teste%html/curso-html5-pacote01/projeto-glass-html5/fale-conosco.html",
+		"/E/Biblioteca/Imagens/Teste%html/curso-html5-pacote01/projeto-glass-html5/.DS_Store",
+		"/E/Biblioteca/Imagens/curso-html5-pacote01/projeto-glass-html5/specs.html",
+		"/E/Biblioteca/Imagens/curso-html5-pacote01/projeto-glass-html5/multimidia.html",
+		"/E/Biblioteca/Imagens/curso-html5-pacote01/projeto-glass-html5/index.html",
+		"/E/Biblioteca/Imagens/curso-html5-pacote01/projeto-glass-html5/google-glass.html",
+		"/E/Biblioteca/Imagens/curso-html5-pacote01/projeto-glass-html5/fotos.html",
+		"/E/Biblioteca/Imagens/curso-html5-pacote01/projeto-glass-html5/fale-conosco.html",
+		"/E/Biblioteca/Imagens/curso-html5-pacote01/projeto-glass-html5/.DS_Store",
+		"/E/Biblioteca/Imagens/Teste%html/Malda=sdla.html",
+		"/C/xampp/htdocs/portifolio/index.html",
+		"/C/xampp/htdocs/portifolio/css/estilo.css",
+		"/C/xampp/htdocs/portifolio/js/main.js",
+		"/C/xampp/htdocs/JGBicho/bahia.php",
+		"/C/xampp/htdocs/JGBicho/index.php",
+		"/C/xampp/htdocs/JGBicho/stylebicho.css",
+		"/C/xampp/htdocs/federalbahiaapp/bahia/bahia.php",
+		"/C/xampp/htdocs/federalbahiaapp/bahia/federal.php",
+		"/C/xampp/htdocs/federalapp/fed/fed.php",
+		"/C/xampp/htdocs/Federal_app/fed/fed.php",
+		"/C/xampp/htdocs/bicho_separados/federal.php",
+		"/C/xampp/htdocs/saopaulo.php",
+		"/C/xampp/htdocs/fed/FederalRS/FederalRS.php",
+		"/C/xampp/htdocs/FederalRS/FederalRS.php",
+		"/C/xampp/htdocs/fed/index.php",
+		"/C/xampp/htdocs/bicho_separados/index.php",
+		"/C/xampp/htdocs/bicho_separados/.htaccess",
+		"/C/xampp/htdocs/bicho_separados/bahia.php",
+		"/C/xampp/htdocs/bicho_separados/erro.php",
+		"/C/xampp/htdocs/bicho_separados/riodejaneiro.php",
+		"/C/xampp/htdocs/bicho_separados/style.css",
+		"/C/xampp/htdocs/Federal/federal.php",
+		"/C/xampp/htdocs/bicho_separados/Federal.php",
+		"/C/xampp/htdocs/Federal/Federal.php",
+		"/C/xampp/htdocs/bicho/index.php",
+		"/C/xampp/htdocs/riodejaneiro/riodejaneiro.php",
+		"/C/xampp/htdocs/SaoPaulo/SaoPaulo.php",
+		"/C/xampp/htdocs/resultadosanteriores.php",
+		"/C/xampp/htdocs/resultadosanteriores/resultadosanteriores.php",
+		"/C/xampp/htdocs/bicho/ResultadosAnteriores.php",
+		"/C/xampp/htdocs/bicho/.htaccess",
+		"/C/xampp/htdocs/jogodobicho/index.php",
+		"/C/xampp/htdocs/jogodobicho/style.css",
+		"/C/Users/Vitor/Downloads/index.html",
+		"/C/Users/Vitor/Downloads/envio.js"
+	],
+	"find":
+	{
+		"height": 29.0
+	},
+	"find_in_files":
+	{
+		"height": 107.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"olor=",
+			"t",
+			">';\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 41.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "projeto-glass-html5.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\xampp\\htdocs\\jogodobicho\\style.css"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
